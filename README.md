@@ -55,7 +55,7 @@ cd wechatcmd/install/
 ### 现在实现的界面：
 
 ![聊天动态图](https://raw.githubusercontent.com/liushuchun/wechatcmd/master/img/show.gif)
-
+出现二维码之后，使用微信扫描二维码，进行登录。
 ![登陆后图](https://raw.githubusercontent.com/liushuchun/wechatcmd/master/img/wechatcmd-1.png)
 ![聊天图片](https://raw.githubusercontent.com/liushuchun/wechatcmd/master/img/wechatcmd-2.png)
 
@@ -81,9 +81,4 @@ cd wechatcmd/install/
 - [ ] 自动保存消息到本地
 - [ ] 表情包的翻译
 
-### roadmap
- -[ ]群内名字解析 @ Haiyang yu 2017-1-17
- -[ ]自动回复消息修复 @liushuchun 2017-1-17
- -[ ]添加表情解析 @liushuchun 2017-1-25
- -[ ]自动添加好友功能 @liushuchun 2017-2-1
- -[ ]好友、公众号分类 @Haiyang yu 2017-2-1
+### 由于工作太忙，后期已经没有精力继续开发，欢迎有兴趣的同学继续开发
